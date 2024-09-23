@@ -1,0 +1,7 @@
+*.txt
+*.com
+sftp-config.json
+streaming.*
+icecast.xml
+smvolare.conf
+/uploadFile/spot/*.mp3
